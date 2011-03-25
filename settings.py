@@ -5,7 +5,7 @@ from djangoappengine.settings_base import *
 
 import os
 
-TIME_ZONE = 'America/Chicago'
+TIME_ZONE = 'America/Sao_Paulo'
 
 SECRET_KEY = '=r-$b*8hglm+858&9t043hlm6-&6-3d3vfc4((7yd0dbrakhvi'
 
